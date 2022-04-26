@@ -2,7 +2,7 @@
 <h3 align="center">Computer engineering student from Turkey</h3>
    
    
-   All of my projects are available at githun and kaggle: https://www.kaggle.com/psycronos
+   All of my projects are available at github and kaggle: https://www.kaggle.com/psycronos
    
    How to reach me **erdogan.eren3@hotmail.com**
    
